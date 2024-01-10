@@ -25,19 +25,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot-1.png)
-![](./images/screenshot-2.png)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+<details>
+    <p align="center">
+      <img src="./images/screenshot-1.png" />
+      <img src="./images/screenshot-2.png" />
+    </p>
+</details>
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-solution-WPNrwpkrZ9)
+- Live Site URL: [Vercel](https://single-price-grid-component-challenge-brown.vercel.app/)
 
 ## My process
 
@@ -66,4 +64,4 @@ As my CSS codebase grows, it's important to maintain a well-organized and modula
 
 - GitHub - [Lekka Audisy](https://github.com/lekkaaudisy)
 - Frontend Mentor - [@lekkaaudisy](https://www.frontendmentor.io/profile/lekkaaudisy)
-- Twitter - [@yla_ramadhana](https://www.twitter.com/la_ramadhana)
+- Twitter - [@la_ramadhana](https://www.twitter.com/la_ramadhana)
